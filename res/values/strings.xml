@@ -4,6 +4,6 @@
     <string name="app_name">iChallengU</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="secure_url">www.thedawie.com</string>
+    <string name="secure_url">www.thedawie.com/</string>
 
 </resources>
